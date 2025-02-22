@@ -21,7 +21,7 @@ This React Native app, built during an Alura course, features:
 1. **Clone the Repository:**
 
 ```bash
-git clone [repository_url]
+gh repo clone StephaneAntonieto/rn-space-app
 ```
 
 2. **Install Dependencies:**
@@ -38,7 +38,7 @@ npm install
 4. **Run the App:**
 
 ```bash
-npx react-native run-ios
+npx react-native run-android
 ```
 
 ### Features
