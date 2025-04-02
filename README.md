@@ -22,25 +22,6 @@ This React Native app, developed during an Alura course, offers a feature-rich e
 - **Cloud Firestore:** Store and retrieve post images and comments.
 - **Cloud Messaging:** Receive real-time notifications for new posts and comments.
 
-## Screenshots
-
-<table style="border-collapse: collapse;">
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <img src="./assets/Login.png" alt="Login Screen" width="150" style="border: 1px solid #ccc; border-radius: 5px;"/>
-      <br>Login Screen
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="./assets//Home.png" alt="Home Screen" width="150" style="border: 1px solid #ccc; border-radius: 5px;"/>
-      <br>Home Screen
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="./assets/Post.png" alt="Post Creation" width="150" style="border: 1px solid #ccc; border-radius: 5px;"/>
-      <br>Post Creation
-    </td>
-  </tr>
-</table>
-
 ## Getting Started
 
 Follow these steps to set up and run the app:
@@ -75,6 +56,20 @@ Follow these steps to set up and run the app:
 - **Immersive Scrolling:** Smooth navigation through the post feed.
 - **Notifications:** Real-time alerts for new posts and comments via Firebase Cloud Messaging.
 - **Firestore Integration:** Efficiently store and retrieve post data (images and comments) using Cloud Firestore.
+
+## Screenshots
+
+### Login Screen
+
+<img src="./assets/Login.png" alt="Login Screen" width="150"/>
+
+### Home Screen
+
+<img src="./assets/Home.png" alt="Home Screen" width="150"/>
+
+### Post Creation
+
+<img src="./assets/Post.png" alt="Post Creation" width="150"/>
 
 ## Disclaimer
 
