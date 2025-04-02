@@ -24,22 +24,22 @@ This React Native app, developed during an Alura course, offers a feature-rich e
 
 ## Screenshots
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-<div style="text-align: center;">
-  <img src="./assets/Login.png" alt="Login Screen" width="150"/>
-  <p>Login Screen</p>
-</div>
-
-<div style="text-align: center;">
-  <img src="./assets/Home.png" alt="Home Screen" width="150"/>
-  <p>Home Screen</p>
-</div>
-
-<div style="text-align: center;">
-  <img src="./assets/Post.png" alt="Post Creation" width="150"/>
-  <p>Post Creation</p>
-</div>
-</div>
+<table style="border-collapse: collapse;">
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <img src="./assets/Login.png" alt="Login Screen" width="150" style="border: 1px solid #ccc; border-radius: 5px;"/>
+      <br>Login Screen
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="./assets//Home.png" alt="Home Screen" width="150" style="border: 1px solid #ccc; border-radius: 5px;"/>
+      <br>Home Screen
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="./assets/Post.png" alt="Post Creation" width="150" style="border: 1px solid #ccc; border-radius: 5px;"/>
+      <br>Post Creation
+    </td>
+  </tr>
+</table>
 
 ## Getting Started
 
